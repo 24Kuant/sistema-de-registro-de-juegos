@@ -4,3 +4,5 @@
 
 Para ejecutar el sistema, debes poner:
 ```npm install react```
+
+Para fines de prueba, y ver que se a realizado un cambio desde git y en el repositorio local no tiene el cambio, ejemplo para usar git pull.
